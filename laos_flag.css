@@ -1,0 +1,62 @@
+body
+   {
+    background-color: black;
+    /* justify-content: center; */
+    }
+
+.red
+  {
+    height: 100px;
+    width: 600px;
+    background-color:#be0027;
+  }
+
+ .lightblue
+   {
+    height: 200px;
+    width: 600px;
+    background-color:#3c5aa3 ;
+   } 
+
+.red
+  {
+    height: 100px;
+    width: 600px;
+    background-color:#be0027;
+  }
+
+.name
+   {
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+    position: absolute;
+    left: 650px;
+    top: 550px;
+    /* justify-content: center; */
+    /* align-items: center; */
+   }
+
+  .border
+   {
+    border: 2px solid #626d7f;
+    height: 400px;
+    width: 600px;
+    position: absolute;
+    left: 400px;
+    top: 100px;
+   }
+   .circle{
+   position: absolute;
+   top: 230px;
+   left: 630px;
+   /* transform: translate(-50%, -50%); */
+   width: 160px;
+   height: 160px;
+   background-color:#ffffff;
+   border-radius: 100px;
+   /* z-index: -2; */
+}
+
+  
+
